@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines and words.
+The purpose of this text is to test the code.
+Feel free to add more lines or words.
+Let's see which word is the most f requent.
+This is just a simple test.
